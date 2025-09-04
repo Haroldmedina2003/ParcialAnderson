@@ -25,3 +25,16 @@ Ejercicio #4
 
 <img width="715" height="179" alt="image" src="https://github.com/user-attachments/assets/19e97d49-5797-4035-aa59-c1bb06bccc05" />
 
+<img width="678" height="87" alt="image" src="https://github.com/user-attachments/assets/5ce986d0-a6db-4f44-b122-af42f4a5b769" 
+
+
+# Ejercicio de Persistencia en Docker
+
+En este ejercicio se comprobó que los cambios hechos **dentro de un contenedor** (por ejemplo, la creación del archivo `notas.txt`) no persisten después de eliminar el contenedor.  
+Esto ocurre porque los contenedores son cortos: su sistema de archivos desaparece cuando el contenedor se borra.  
+
+En cambio, los archivos que forman parte de la **imagen** (por ejemplo, `texto.txt` copiado en el Dockerfile) sí están presentes cada vez que se crea un nuevo contenedor desde esa imagen, ya que forman parte de la capa de la imagen.
+
+
+
+
