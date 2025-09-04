@@ -5,7 +5,9 @@ ejercicio #1
 
 Ejercicio #2
 
-<img width="1135" height="448" alt="image" src="https://github.com/user-attachments/assets/d70c0b7c-f89c-4cff-8042-bebad79c285c" />
+
+<img width="1122" height="386" alt="image" src="https://github.com/user-attachments/assets/0db9147d-fde5-4270-b8c4-bca071c8bc26" />
+
 
 
 <img width="1126" height="225" alt="image" src="https://github.com/user-attachments/assets/3446fa48-c136-4d0f-b0a4-6129d280aa7f" />
