@@ -1,5 +1,6 @@
 ejercicio #1
-<img width="898" height="110" alt="image" src="https://github.com/user-attachments/assets/2c508287-dc7f-4d9e-a17a-5323a28a4a38" />
+
+<img width="215" height="23" alt="image" src="https://github.com/user-attachments/assets/f3070073-fb46-4987-991f-117bcc2746f6" />
 
 
 Ejercicio #2
