@@ -12,3 +12,8 @@ Ejercicio #2
 
 
 <img width="338" height="187" alt="image" src="https://github.com/user-attachments/assets/0263c087-addf-4ae6-9606-07fe6aaf243a" />
+
+
+Ejercicio #3
+
+<img width="875" height="476" alt="image" src="https://github.com/user-attachments/assets/89291581-5924-43be-b96c-4434c032254b" />
