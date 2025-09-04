@@ -37,6 +37,19 @@ Esto ocurre porque los contenedores son cortos: su sistema de archivos desaparec
 
 En cambio, los archivos que forman parte de la **imagen** (por ejemplo, `texto.txt` copiado en el Dockerfile) sí están presentes cada vez que se crea un nuevo contenedor desde esa imagen, ya que forman parte de la capa de la imagen.
 
+Ejercicio#5
+
+<img width="616" height="36" alt="image" src="https://github.com/user-attachments/assets/634908f3-39ac-4caa-a46f-b3c6b1a93c89" />
+
+<img width="666" height="30" alt="image" src="https://github.com/user-attachments/assets/49d9dea1-c2b4-4af4-a2f4-bf2cb4608b55" />
+
+<img width="409" height="38" alt="image" src="https://github.com/user-attachments/assets/9193441a-a5d6-40ec-87c0-71f525041435" />
+
+<img width="200" height="27" alt="image" src="https://github.com/user-attachments/assets/868ba8bc-2a3d-4197-b0c2-17de38e30b22" />
+
+
+
+
 
 
 
