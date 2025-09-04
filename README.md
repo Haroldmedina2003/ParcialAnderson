@@ -20,3 +20,8 @@ Ejercicio #2
 Ejercicio #3
 
 <img width="875" height="476" alt="image" src="https://github.com/user-attachments/assets/89291581-5924-43be-b96c-4434c032254b" />
+
+Ejercicio #4
+
+<img width="715" height="179" alt="image" src="https://github.com/user-attachments/assets/19e97d49-5797-4035-aa59-c1bb06bccc05" />
+
