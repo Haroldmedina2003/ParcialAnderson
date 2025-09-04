@@ -25,7 +25,9 @@ Ejercicio #4
 
 <img width="715" height="179" alt="image" src="https://github.com/user-attachments/assets/19e97d49-5797-4035-aa59-c1bb06bccc05" />
 
-<img width="678" height="87" alt="image" src="https://github.com/user-attachments/assets/5ce986d0-a6db-4f44-b122-af42f4a5b769" 
+
+<img width="674" height="98" alt="image" src="https://github.com/user-attachments/assets/71d6cfe2-f67b-48ec-8cc8-681c14e119d7" />
+
 
 
 # Ejercicio de Persistencia en Docker
